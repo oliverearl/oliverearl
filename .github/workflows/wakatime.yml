@@ -3,6 +3,7 @@ name: Wakatime
 on:
   schedule:
     - cron: "0 0 * * *" # midnight
+  workflow_dispatch: 
 
 jobs:
   update-programming-stats:

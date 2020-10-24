@@ -1,0 +1,15 @@
+name: Wakatime
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # midnight
+
+jobs:
+  update-programming-stats:
+    name: Update Readme with Wakatime Statistics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}

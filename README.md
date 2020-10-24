@@ -13,4 +13,7 @@ My name is Oliver and I currently teach computer science. I'll be filling this o
 
 ### Development Breakdown
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->

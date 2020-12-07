@@ -1,19 +1,20 @@
-## Oh hey there 👋
+# 👋 Welcome!
 
-My name is Oliver and I currently teach computer science. I'll be filling this out in more detail soon. For now, I'd love it if you checked out my [LinkedIn](https://www.linkedin.com/in/oliverearl).
+Hey, my name's Oliver, but you can call me Ollie. I currently work as a computer science teacher though I'm looking to transition into a career in software engineering.
 
-### Latest Writing
+## 👨‍🏫 A bit about me
+
+- 🎓 I'm finishing my teaching qualification at Birmingham City University, and graduated with my MSc and BSc from Aberystwyth University.
+- 🖥 PHP and JavaScript are the programming languages I'm most interested in, especially the Laravel framework. I mainly use C# and Python in the classroom.
+- 🌍 English is my mother tongue and I speak German quite well! I would love to learn another language. 
+- 🌱 My interests are broad, but much of my free time outside of programming goes into writing on my [blog](https://blog.oliverearl.co.uk) and volunteering in student welfare.
+
+## ✏ Latest Writing
+
 <!-- BLOG-POST-LIST:START -->
-- [Your Degree Isn't Enough: My Advice to Students](https://blog.oliverearl.co.uk/your-degree-isnt-enough-my-advice-to-students)
-- [Improve your Browser Security in 5 Minutes](https://blog.oliverearl.co.uk/improve-your-browser-security-in-5-minutes)
-- [Fun with Clippy.js](https://blog.oliverearl.co.uk/fun-with-clippyjs)
-- [Documentation in Laravel 8 with Enlighten](https://blog.oliverearl.co.uk/documentation-in-laravel-8-with-enlighten)
-- [Tips on being a better listener - from a former helpline volunteer](https://blog.oliverearl.co.uk/tips-on-being-a-better-listener-from-a-former-helpline-volunteer)
 <!-- BLOG-POST-LIST:END -->
 
-### Development Breakdown
+## 👨‍💻 Development Breakdown
+
 <!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
 <!--END_SECTION:waka-->

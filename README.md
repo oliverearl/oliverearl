@@ -12,6 +12,11 @@ Hey, my name's Oliver, but you can call me Ollie. I currently work as a computer
 ## ✏ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [What I Learned from the Hashnode Technical Writing Bootcamp](https://blog.oliverearl.co.uk/what-i-learned-from-the-hashnode-technical-writing-bootcamp)
+- [My Strategy for Learning a Programming Language Quickly](https://blog.oliverearl.co.uk/my-strategy-for-learning-a-programming-language-quickly)
+- [Your Degree Isn't Enough: My Advice to Students](https://blog.oliverearl.co.uk/your-degree-isnt-enough-my-advice-to-students)
+- [Improve your Browser Security in 5 Minutes](https://blog.oliverearl.co.uk/improve-your-browser-security-in-5-minutes)
+- [Fun with Clippy.js](https://blog.oliverearl.co.uk/fun-with-clippyjs)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👨‍💻 Development Breakdown

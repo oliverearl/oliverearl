@@ -23,10 +23,10 @@ Hey, my name's Oliver, but you can call me Ollie. I currently work as a computer
 
 <!--START_SECTION:waka-->
 ```text
-PHP          4 hrs 36 mins   █████████████▓░░░░░░░░░░░   55.02 % 
-Twig         1 hr 10 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-JSON         31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-Other        28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
-Git Config   23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+PHP          3 hrs 30 mins   ███████▓░░░░░░░░░░░░░░░░░   30.01 % 
+JavaScript   3 hrs 27 mins   ███████▒░░░░░░░░░░░░░░░░░   29.54 % 
+Twig         1 hr 20 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+HTML         1 hr 17 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Other        45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
 ```
 <!--END_SECTION:waka-->

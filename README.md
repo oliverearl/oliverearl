@@ -1,15 +1,16 @@
 # 👋 Welcome!
 
-Hey, my name's Oliver, but you can call me Ollie. I currently work as a computer science teacher though I'm looking to transition into a career in software engineering.
+Hey, my name's Oliver, but you can call me Ollie, and I'm a full-stack web developer from the UK. Prior to that, I was a postgraduate student studying post-compulsory education and worked as a trainee computer science teacher in a top state school.
 
 ## 👨‍🏫 A bit about me
 
-- 🎓 I'm finishing my teaching qualification at Birmingham City University, and graduated with my MSc in Software Engineering and BSc in major/minor Computer Science with German from Aberystwyth University.
-- 🖥 PHP and JavaScript are the programming languages I'm most interested in, especially the Laravel framework. I mainly use C# and Python in the classroom.
-- 🌍 English is my mother tongue and I speak German quite well! I would love to learn another language. 
-- 🌱 My interests are broad, but much of my free time outside of programming goes into writing on my [blog](https://blog.oliverearl.co.uk) and volunteering in student welfare.
+- 🎓 I have just finished my teaching qualification from Birmingham City University, and have obtained both an Master's degree in Software Engineering and a Bachelor's degree in Computer Science with a minor in German from Aberystwyth University.
+- 🖥 PHP and JavaScript are the programming languages I'm most passionate about, especially when coupled with Laravel and Vue.js.
+- 🕹 I enjoy working on video game development at the weekend, though I'm yet to become good at it!
+- 🇩🇪 I did a software engineering internship at Amadeus IT Group near Frankfurt-am-Main, Germany.
+- 🌱 My outside interests are broad, but a lot of my free time goes into writing on my [blog](https://blog.oliverearl.co.uk) and volunteering in student welfare.
 
-## ✏ Latest Writing
+## ✏ Latest Writing on my Blog
 
 <!-- BLOG-POST-LIST:START -->
 - [November 2020 Update](https://blog.oliverearl.co.uk/november-2020-update)
@@ -22,11 +23,4 @@ Hey, my name's Oliver, but you can call me Ollie. I currently work as a computer
 ## 👨‍💻 Development Breakdown
 
 <!--START_SECTION:waka-->
-```text
-PHP          3 hrs 30 mins   ███████▓░░░░░░░░░░░░░░░░░   30.01 % 
-JavaScript   3 hrs 27 mins   ███████▒░░░░░░░░░░░░░░░░░   29.54 % 
-Twig         1 hr 20 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-HTML         1 hr 17 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Other        45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-```
 <!--END_SECTION:waka-->

@@ -26,10 +26,10 @@ Hey, my name's Oliver, but you can call me Ollie, and I'm a full-stack web devel
 ```text
 Week: 15 December, 2020 - 22 December, 2020
 
-JavaScript   9 hrs 22 mins   ████████████████░░░░░░░░░   63.69 % 
-TeX          1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-HTML         1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Markdown     1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-Python       45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+TypeScript   3 hrs 11 mins   ████████▓░░░░░░░░░░░░░░░░   35.30 % 
+JavaScript   3 hrs 3 mins    ████████▒░░░░░░░░░░░░░░░░   33.98 % 
+JSON         1 hr 41 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.82 % 
+TeX          27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+HTML         27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 ```
 <!--END_SECTION:waka-->

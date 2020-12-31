@@ -24,7 +24,7 @@ Hey, my name's Oliver, but you can call me Ollie, and I'm a full-stack web devel
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 December, 2020 - 29 December, 2020
+Week: 23 December, 2020 - 30 December, 2020
 
 TypeScript   3 hrs 11 mins   ████████▓░░░░░░░░░░░░░░░░   35.30 % 
 JavaScript   3 hrs 3 mins    ████████▒░░░░░░░░░░░░░░░░   33.98 % 

@@ -13,11 +13,11 @@ Hey, my name's Oliver, but you can call me Ollie, and I'm a full-stack web devel
 ## ✏ Latest Writing on my Blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing an unofficial Hashnode API library for PHP](https://blog.oliverearl.co.uk/introducing-an-unofficial-hashnode-api-library-for-php)
 - [November 2020 Update](https://blog.oliverearl.co.uk/november-2020-update)
 - [What I Learned from the Hashnode Technical Writing Bootcamp](https://blog.oliverearl.co.uk/what-i-learned-from-the-hashnode-technical-writing-bootcamp)
 - [My Strategy for Learning a Programming Language Quickly](https://blog.oliverearl.co.uk/my-strategy-for-learning-a-programming-language-quickly)
 - [Your Degree Isn't Enough: My Advice to Students](https://blog.oliverearl.co.uk/your-degree-isnt-enough-my-advice-to-students)
-- [Improve your Browser Security in 5 Minutes](https://blog.oliverearl.co.uk/improve-your-browser-security-in-5-minutes)
 <!-- BLOG-POST-LIST:END -->
 
 ## 👨‍💻 Development Breakdown

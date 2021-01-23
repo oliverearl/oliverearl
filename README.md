@@ -24,12 +24,12 @@ Hey, my name's Oliver, but you can call me Ollie, and I'm a full-stack web devel
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 January, 2021 - 21 January, 2021
+Week: 15 January, 2021 - 22 January, 2021
 
-TypeScript   3 hrs 11 mins   ████████▓░░░░░░░░░░░░░░░░   35.30 % 
-JavaScript   3 hrs 3 mins    ████████▒░░░░░░░░░░░░░░░░   33.98 % 
-JSON         1 hr 41 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.82 % 
-TeX          27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-HTML         27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+PHP          1 hr 8 mins     █████████████▓░░░░░░░░░░░   54.76 % 
+Vue.js       24 mins         █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+JavaScript   18 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 % 
+Other        10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 ```
 <!--END_SECTION:waka-->

@@ -1,7 +1,7 @@
 name: Retrieve latest blogposts from Hashnode workflow
 on:
   schedule:
-    - cron: '0 * * * *' # hourly
+    - cron: '* * * * 0' # weekly
   workflow_dispatch: 
 jobs:
   update-readme-with-blog-posts:

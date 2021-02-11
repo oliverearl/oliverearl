@@ -5,7 +5,8 @@ Hey, my name's Oliver, but you can call me Ollie, and I'm a full-stack junior de
 ## 👨‍🏫 A bit about me
 
 - 🎓 BSc CS w/German and MSc SWE from Aberystwyth University, Wales. PGCE from Birmingham City University, England.
-- 🖥 My favourite tech: Laravel, Vue.js, Nuxt, TypeScript, PHP 8
+- 🖥 My favourite tech: Laravel, Vue.js, Nuxt, TypeScript
+- 💻 Other tech I like occasionally working with: Phaser 3, Godot, CodeIgniter, C#
 - 🕹 I enjoy working on video game development at the weekend, though I'm yet to become good at it!
 - 🇩🇪 I did a software engineering internship at Amadeus IT Group, Germany
 - 🌱 I write for my [blog](https://blog.oliverearl.co.uk) and volunteer for the Nightline Association in my free time

@@ -34,3 +34,38 @@ Blade Template   51 mins         █░░░░░░░░░░░░░░�
 JSON             43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 ```
 <!--END_SECTION:waka-->
+
+## 📌 Pinned Repositories
+
+### Tools and APIs
+<a href="https://github.com/oliverearl/cv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oliverearl&repo=cv" />
+</a>
+<a href="https://github.com/oliverearl/php-hashnode">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oliverearl&repo=php-hashnode" />
+</a>
+<a href="https://github.com/oliverearl/heimdall">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oliverearl&repo=heimdall" />
+</a>
+<a href="https://github.com/oliverearl/nightlight">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oliverearl&repo=nightlight" />
+</a>
+<a href="https://github.com/oliverearl/bonzi-server">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oliverearl&repo=bonzi-server" />
+</a>
+<a href="https://github.com/oliverearl/bonzi-client">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oliverearl&repo=bonzi-client" />
+</a>
+
+### Games
+<a href="https://github.com/oliverearl/corona-simulator">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oliverearl&repo=corona-simulator" />
+</a>
+
+### Academic
+<a href="https://github.com/oliverearl/railrota">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oliverearl&repo=railrota" />
+</a>
+<a href="https://github.com/oliverearl/borealis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oliverearl&repo=borealis" />
+</a>

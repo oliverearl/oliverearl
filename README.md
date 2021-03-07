@@ -25,7 +25,7 @@ Hey, my name's Oliver, but you can call me Ollie, and I'm a full-stack junior de
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 February, 2021 - 27 February, 2021
+Week: 27 February, 2021 - 06 March, 2021
 
 PHP              14 hrs 5 mins   █████████████████▒░░░░░░░   68.86 % 
 Twig             1 hr 58 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 % 

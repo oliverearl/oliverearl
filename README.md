@@ -25,13 +25,13 @@ Hey, my name's Oliver, but you can call me Ollie, and I'm a full-stack junior de
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 March, 2021 - 13 March, 2021
+Week: 27 March, 2021 - 03 April, 2021
 
-PHP              14 hrs 5 mins   █████████████████▒░░░░░░░   68.86 % 
-Twig             1 hr 58 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-YAML             56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-Blade Template   51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-JSON             43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+PHP          3 hrs 49 mins   █████████████████▓░░░░░░░   70.56 % 
+TeX          59 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.35 % 
+Twig         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 ```
 <!--END_SECTION:waka-->
 

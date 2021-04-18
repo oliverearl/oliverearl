@@ -25,7 +25,7 @@ Hey, my name's Oliver, but you can call me Ollie, and I'm a full-stack junior de
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 April, 2021 - 10 April, 2021
+Week: 10 April, 2021 - 17 April, 2021
 
 PHP          3 hrs 49 mins   █████████████████▓░░░░░░░   70.56 % 
 TeX          59 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.35 % 

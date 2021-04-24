@@ -11,6 +11,11 @@ Hey, my name's Oliver, but you can call me Ollie, and I'm a software engineer fr
 ## ✏ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Introducing an unofficial Hashnode API library for PHP](https://scratchpad.oliverearl.co.uk/2020/12/01/introducing-an-unofficial-hashnode-api-library-for-php/)
+- [What I learned from the Hashnode Technical Writing Bootcamp](https://scratchpad.oliverearl.co.uk/2020/10/25/what-i-learned-from-the-hashnode-technical-writing-bootcamp/)
+- [My strategy for learning a programming language quickly](https://scratchpad.oliverearl.co.uk/2020/10/25/my-strategy-for-learning-a-programming-language-quickly/)
+- [Your degree isn’t enough: my advice to students](https://scratchpad.oliverearl.co.uk/2020/10/18/your-degree-isnt-enough-my-advice-to-students/)
+- [Improve your browser security in 5 minutes](https://scratchpad.oliverearl.co.uk/2020/10/18/improve-your-browser-security-in-5-minutes/)
 <!-- BLOG-POST-LIST:END -->
 ## 👨‍💻 Free Time Development Breakdown
 

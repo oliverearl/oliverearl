@@ -14,7 +14,7 @@ jobs:
       - name: Get RSS Feed
         uses: kohrongying/readme-the-rss@master
         with:
-          feed_url: https://scratchpad.oliverearl.co.uk/feed
+          feed_url: https://scratchpad.oliverearl.co.uk/feed/
           count: 6 # default 5
       - name: Commit file changes
         run: |

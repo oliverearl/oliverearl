@@ -3,6 +3,7 @@ on:
   schedule:
     # Runs every day at 3pm UTC
     - cron: '0 15 * * *'
+  workflow_dispatch:
 
 jobs:
   pull_blog_rss:

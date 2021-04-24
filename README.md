@@ -10,8 +10,8 @@ Hey, my name's Oliver, but you can call me Ollie, and I'm a software engineer fr
 
 ## ✏ Latest Blog Posts
 
-<!-- BLOGPOSTS:START -->
-<!-- BLOGPOSTS:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 ## 👨‍💻 Free Time Development Breakdown
 
 <!--START_SECTION:waka-->

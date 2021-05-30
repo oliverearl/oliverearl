@@ -21,13 +21,7 @@ Hey, my name's Oliver, but you can call me Ollie, and I'm a software engineer fr
 
 <!--START_SECTION:waka-->
 ```text
-Week: 10 April, 2021 - 17 April, 2021
-
-PHP          3 hrs 49 mins   █████████████████▓░░░░░░░   70.56 % 
-TeX          59 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Twig         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
-Other        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 

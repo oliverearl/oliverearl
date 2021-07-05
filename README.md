@@ -2,12 +2,6 @@
 
 Hey, my name's Oliver, but you can call me Ollie, and I'm a software engineer from the UK. Prior to that, I was a postgraduate student studying post-compulsory education and worked as a trainee computer science secondary school teacher.
 
-## 👨‍🏫 A bit about me
-
-- 🎓 BSc CS w/German and MSc SWE from Aberystwyth University, Wales. PGCE from Birmingham City University, England.
-- 🖥 My favourite tech: Laravel, Vue.js, Nuxt
-- 🌱 I write for my [blog](https://scratchpad.oliverearl.co.uk) and volunteer for the Nightline Association in my free time
-
 ## ✏ Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->

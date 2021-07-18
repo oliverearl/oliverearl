@@ -15,7 +15,13 @@ Hey, my name's Oliver, but you can call me Ollie, and I'm a software engineer fr
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 11 July, 2021 - 17 July, 2021
+
+PHP              2 hrs 58 mins   ███████████████▓░░░░░░░░░   62.55 % 
+Blade Template   31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
+Other            27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+JSON             21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+Git Config       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
 ```
 <!--END_SECTION:waka-->
 

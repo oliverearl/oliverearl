@@ -11,7 +11,9 @@ Hey, my name's Oliver, but you can call me Ollie, and I'm a software engineer fr
 - [What I learned from the Hashnode Technical Writing Bootcamp](https://scratchpad.oliverearl.co.uk/2020/10/25/what-i-learned-from-the-hashnode-technical-writing-bootcamp/)
 - [My strategy for learning a programming language quickly](https://scratchpad.oliverearl.co.uk/2020/10/25/my-strategy-for-learning-a-programming-language-quickly/)
 <!-- BLOG-POST-LIST:END -->
-## 👨‍💻 Free Time Development Breakdown
+## 👨‍💻 Development Breakdown
+
+These are my WakaTime stats for development for personal and [Petrobolos](https://github.com/petrobolos) work! I use a separate [GitHub account](https://github.com/stickeeoliver) at work.
 
 <!--START_SECTION:waka-->
 ```text

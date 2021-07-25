@@ -17,13 +17,13 @@ These are my WakaTime stats for development for personal and [Petrobolos](https:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 July, 2021 - 17 July, 2021
+Week: 18 July, 2021 - 24 July, 2021
 
-PHP              2 hrs 58 mins   ███████████████▓░░░░░░░░░   62.55 % 
-Blade Template   31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.17 % 
-Other            27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-JSON             21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
-Git Config       8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+PHP        13 hrs 5 mins   ███████████████████▓░░░░░   78.75 % 
+TeX        1 hr 31 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+JSON       33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Other      23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Markdown   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
 <!--END_SECTION:waka-->
 

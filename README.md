@@ -17,7 +17,7 @@ These are my WakaTime stats for development for personal and [Petrobolos](https:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 July, 2021 - 24 July, 2021
+Week: 25 July, 2021 - 31 July, 2021
 
 PHP        13 hrs 5 mins   ███████████████████▓░░░░░   78.75 % 
 TeX        1 hr 31 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 % 

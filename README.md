@@ -8,10 +8,13 @@ These are my WakaTime stats for development for personal and [Petrobolos](https:
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 December, 2021 - 25 December, 2021
+Week: 26 December, 2021 - 01 January, 2022
 
-PHP              10 mins         █████████████████▓░░░░░░░   71.11 % 
-Vue.js           3 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.17 % 
+PHP         12 hrs 4 mins   ██████████████████████▓░░   90.18 % 
+Markdown    44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+GraphQL     14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+JSON        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+.env file   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
 ```
 <!--END_SECTION:waka-->
 

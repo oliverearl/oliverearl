@@ -35,13 +35,13 @@ After I almost passed away in 2021 from vaccine complications, I began work on [
 
 <!--START_SECTION:waka-->
 ```text
-Week: 16 January, 2022 - 22 January, 2022
+Week: 23 January, 2022 - 29 January, 2022
 
-Vue.js       7 hrs 7 mins    ██████████████████▓░░░░░░   74.70 % 
-PHP          45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 % 
-Markdown     40 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-JavaScript   26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-CSS          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+PHP              2 hrs 22 mins   █████████████████████▓░░░   86.94 % 
+GitIgnore file   8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+.env file        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+JSON             3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Markdown         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 ```
 <!--END_SECTION:waka-->
 

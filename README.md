@@ -35,9 +35,9 @@ After I almost passed away in 2021 from vaccine complications, I began work on [
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 February, 2022 - 19 February, 2022
+From: 18 February, 2022 - To: 24 February, 2022
 
-PHP   11 hrs 12 mins  █████████████████████████   100.00 % 
+PHP   1 hr 27 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 

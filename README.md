@@ -36,14 +36,14 @@ After I almost passed away in 2021 from vaccine complications, I began work on [
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 February 2022 - To: 05 March 2022
+From: 06 March 2022 - To: 12 March 2022
 
-PHP              2 hrs 40 mins   ███████████░░░░░░░░░░░░░░   44.31 %
-Blade Template   1 hr 34 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.24 %
-JSON             1 hr 3 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.54 %
-JavaScript       17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-Text             9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-.env file        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+PHP               10 hrs 59 mins  ███████████████▒░░░░░░░░░   61.98 %
+Vue.js            4 hrs 23 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.73 %
+Blade Template    55 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+JavaScript        44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+JSON              27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+GitIgnore file    4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->

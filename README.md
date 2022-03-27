@@ -36,13 +36,7 @@ After I almost passed away in 2021 from vaccine complications, I began work on [
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 March 2022 - To: 19 March 2022
-
-PHP              7 mins          █████████████▓░░░░░░░░░░░   54.00 %
-JSON             6 mins          ██████████▓░░░░░░░░░░░░░░   42.64 %
-GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
-Bash             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
-JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

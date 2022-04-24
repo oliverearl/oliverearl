@@ -9,9 +9,14 @@ You can find out more about me on [LinkedIn](https://www.linkedin.com/in/olivere
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 April 2022 - To: 16 April 2022
+From: 16 April 2022 - To: 23 April 2022
 
-PHP   12 mins         █████████████████████████   100.00 %
+PHP            1 hr 12 mins    ███████████████▓░░░░░░░░░   63.05 %
+JSON           20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.13 %
+Bash           8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+YAML           6 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+Docker         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
+JavaScript     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
 ```
 
 <!--END_SECTION:waka-->

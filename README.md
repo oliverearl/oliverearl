@@ -9,14 +9,14 @@ You can find out more about me on [LinkedIn](https://www.linkedin.com/in/olivere
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 April 2022 - To: 07 May 2022
+From: 07 May 2022 - To: 14 May 2022
 
-PHP              13 hrs 43 mins  ██████████████████████░░░   87.38 %
-JSON             40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
-Markdown         38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 %
-Blade Template   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
-Text             7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-GitIgnore file   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+PHP              9 hrs 54 mins   ███████████████████░░░░░░   76.10 %
+Vue.js           2 hrs 5 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.03 %
+Text             44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.65 %
+JavaScript       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+JSON             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->

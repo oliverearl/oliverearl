@@ -9,10 +9,10 @@ You can find out more about me on [LinkedIn](https://www.linkedin.com/in/olivere
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 June 2022 - To: 11 June 2022
+From: 11 June 2022 - To: 18 June 2022
 
-PHP              48 mins         █████████████████████████   99.68 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+PHP        7 mins          █████████████████████████   100.00 %
+Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->

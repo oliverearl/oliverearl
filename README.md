@@ -9,10 +9,7 @@ You can find out more about me on [LinkedIn](https://www.linkedin.com/in/olivere
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 June 2022 - To: 02 July 2022
-
-JavaScript       29 mins         █████████████████▒░░░░░░░   69.62 %
-Other            10 mins         ██████░░░░░░░░░░░░░░░░░░░   24.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

@@ -9,7 +9,11 @@ You can find out more about me on [LinkedIn](https://www.linkedin.com/in/olivere
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 31 August 2022 - To: 07 September 2022
+
+PHP         53 mins         ████████████████████████▒   97.78 %
+.env file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Bash        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->

@@ -23,4 +23,4 @@ YAML        0 secs          ░░░░░░░░░░░░░░░░░�
 
 ## 📌 Download my CV
 
-[![CV](https://github-readme-stats.vercel.app/api/pin/?username=oliverearl&repo=cv)](https://github.com/oliverearl/cv)
+[![Resume](https://github-readme-stats.vercel.app/api/pin/?username=oliverearl&repo=resume-2022)](https://github.com/oliverearl/resume-2022/blob/build/cv.pdf)

@@ -9,14 +9,14 @@ You can find out more about me on [LinkedIn](https://www.linkedin.com/in/olivere
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 November 2022 - To: 11 November 2022
+From: 12 November 2022 - To: 18 November 2022
 
-Markdown         55 mins         ███████████████████▓░░░░░   78.04 %
-GitIgnore file   11 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.44 %
-textmate         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
-Text             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
-INI              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-AUTO_DETECTED    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Markdown         30 mins         █████████████▒░░░░░░░░░░░   53.11 %
+PHP              18 mins         ████████▒░░░░░░░░░░░░░░░░   33.24 %
+JSON             5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.75 %
+GitIgnore file   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
+EditorConfig     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+INI              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->

@@ -13,14 +13,14 @@ Former: [@amadeusitgroup](https://github.com/amadeusitgroup)
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 November 2022 - To: 25 November 2022
+From: 26 November 2022 - To: 02 December 2022
 
-PHP              8 hrs 24 mins   ███████████████▒░░░░░░░░░   61.69 %
-Vue.js           2 hrs 36 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.17 %
-Markdown         1 hr 1 min      ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
-YAML             45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
-JSON             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-JavaScript       11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+PHP         20 mins         █████████████▓░░░░░░░░░░░   54.08 %
+JSON        16 mins         ██████████▓░░░░░░░░░░░░░░   42.89 %
+Bash        0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+.env file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Vue.js      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Text        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->

@@ -24,9 +24,3 @@ Text        0 secs          ░░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-## 📌 Download my CV
-
-[![Resume](https://github-readme-stats.vercel.app/api/pin/?username=oliverearl&repo=resume-2022)](https://github.com/oliverearl/resume-2022/blob/build/cv.pdf)
-
-Single page resumes are available on request!

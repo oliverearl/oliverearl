@@ -13,9 +13,7 @@ Former: [@amadeusitgroup](https://github.com/amadeusitgroup)
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 December 2022 - To: 16 December 2022
-
-JSON   0 secs          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

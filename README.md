@@ -13,14 +13,10 @@ Former: [@amadeusitgroup](https://github.com/amadeusitgroup)
 <!--START_SECTION:waka-->
 
 ```text
-From: 31 December 2022 - To: 06 January 2023
+From: 07 January 2023 - To: 13 January 2023
 
-PHP          5 hrs 57 mins   ██████████████████████░░░   88.53 %
-JSON         22 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.55 %
-.env file    11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-YAML         10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-Text         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+PHP    1 hr 31 mins    ████████████████████████▓   98.62 %
+JSON   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
 ```
 
 <!--END_SECTION:waka-->

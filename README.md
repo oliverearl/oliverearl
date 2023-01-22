@@ -13,10 +13,7 @@ Former: [@amadeusitgroup](https://github.com/amadeusitgroup)
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 January 2023 - To: 13 January 2023
-
-PHP    1 hr 31 mins    ████████████████████████▓   98.62 %
-JSON   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

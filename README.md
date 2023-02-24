@@ -1,8 +1,6 @@
 # 👋 Welcome!
 
-Hey, my name's Oliver, but you can call me Ollie. I'm a software engineer from the UK. I currently work full-time at [@stickeeuk](https://www.github.com/stickeeuk) and volunteer my evenings to [@nightline-association](https://www.github.com/nightline-association) as a PHP/JavaScript full-stack developer. I'm also a qualified computer science teacher.
-
-You can find out more about me on [LinkedIn](https://www.linkedin.com/in/oliverearl), or you can grab my CV below.
+Hey, I'm Ollie. I'm a full time software engineer at [@stickeeuk](https://www.github.com/stickeeuk) and volunteer my evenings to [@nightline-association](https://www.github.com/nightline-association).
 
 Side projects: [@petrobolos](https://github.com/petrobolos), [@extracontinue](https://github.com/extracontinue)
 

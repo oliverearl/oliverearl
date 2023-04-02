@@ -11,14 +11,9 @@ Former: [@amadeusitgroup](https://github.com/amadeusitgroup)
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 March 2023 - To: 24 March 2023
+From: 25 March 2023 - To: 31 March 2023
 
-PHP              11 hrs 26 mins  ██████████████████████▓░░   90.16 %
-JSON             21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-YAML             16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
-Markdown         14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-Text             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-GitIgnore file   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

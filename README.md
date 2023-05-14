@@ -11,7 +11,7 @@ Former: [@amadeusitgroup](https://github.com/amadeusitgroup)
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 April 2023 - To: 05 May 2023
+From: 05 May 2023 - To: 12 May 2023
 
 No activity tracked
 ```

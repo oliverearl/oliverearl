@@ -5,15 +5,3 @@ Hey, I'm Ollie. I'm a full time software engineer at [@stickeeuk](https://www.gi
 Side projects: [@petrobolos](https://github.com/petrobolos), [@extracontinue](https://github.com/extracontinue)
 
 Former: [@amadeusitgroup](https://github.com/amadeusitgroup) 
-
-## 🏋 WakaTime Stats
-
-<!--START_SECTION:waka-->
-
-```text
-From: 19 May 2023 - To: 26 May 2023
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->

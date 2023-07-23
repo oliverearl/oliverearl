@@ -26,7 +26,11 @@ Former: [@amadeusitgroup](https://github.com/amadeusitgroup), [@aberuni](https:/
 ## 📖 Latest blog posts:
 
 <!--START_SECTION:feed-->
-...
+* [Avoiding void responses in Laravel controllers](https:&#x2F;&#x2F;www.oliverearl.co.uk&#x2F;blog&#x2F;avoiding-null-responses-in-laravel-controllers)
+* [Software engineering and returning to my roots](https:&#x2F;&#x2F;www.oliverearl.co.uk&#x2F;blog&#x2F;software-engineering-and-returning-to-my-roots)
+* [Introducing an unofficial Hashnode API library for PHP](https:&#x2F;&#x2F;www.oliverearl.co.uk&#x2F;blog&#x2F;introducing-an-unofficial-hashnode-api-library-for-php)
+* [What I learned from the Hashnode Writing Bootcamp](https:&#x2F;&#x2F;www.oliverearl.co.uk&#x2F;blog&#x2F;what-i-learned-from-the-hashnode-writing-bootcamp)
+* [My strategy for learning a programming language quickly](https:&#x2F;&#x2F;www.oliverearl.co.uk&#x2F;blog&#x2F;my-strategy-for-learning-a-programming-language-quickly)
 <!--END_SECTION:feed-->
 
 ## :octocat: Open source

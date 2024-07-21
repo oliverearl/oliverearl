@@ -16,14 +16,11 @@ Former: [@amadeusitgroup](https://github.com/amadeusitgroup), [@aberuni](https:/
 
 ## 🧰 What I work with:
 
-#### Languages and frameworks
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,wordpress,nodejs,mysql,postgres,javascript,typescript,vue,nuxt,jquery,html,css,sass,tailwind,bootstrap,graphql,bash,godot,unity,gamemakerstudio,flutter,dart,c,cs,dotnet,java,ruby,py,arduino)](https://skillicons.dev)
+#### In the professional world:
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,wordpress,nodejs,mysql,postgres,javascript,typescript,vue,nuxt,jquery,html,css,sass,tailwind,bootstrap,graphql,bash,flutter,dart,linux,aws,docker,redis,postman,latex,markdown,git,github,githubactions,vite,webpack)](https://skillicons.dev)
 
-#### Tools
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,aws,redis,postman,latex,markdown,git,github,githubactions,vite,webpack,figma,ps)](https://skillicons.dev)
-
-#### Still learning...
-[![My Skills](https://skillicons.dev/icons?i=symfony,adonis,alpinejs)](https://skillicons.dev)
+#### For fun, in academia, or in teaching:
+[![My Skills](https://skillicons.dev/icons?i=symfony,alpinejs,godot,unity,gamemakerstudio,c,cs,dotnet,java,ruby,rails,py,flask,arduino)](https://skillicons.dev)
 
 ## 📖 Latest blog posts:
 

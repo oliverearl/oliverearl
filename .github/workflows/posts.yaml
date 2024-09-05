@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://www.oliverearl.co.uk/blog/feed.atom
+          feed-url: https://oliverearl.co.uk/feed/atom
           readme-section: feed

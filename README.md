@@ -2,17 +2,15 @@
 
 <img align="right" alt="A cute PHP elephant that I drew" height="200" src="https://github.com/oliverearl/oliverearl/assets/14837181/ead3f393-4a1b-4357-9b3a-452bad98b760" />
 
-Hey, I'm Ollie. I'm a full-stack web developer from 🇬🇧 Birmingham, United Kingdom. I currently work hands-on with some of the largest companies in the world over at [Stickee Technology](https://www.github.com/stickeeuk); the titanium arm of the company that builds the special projects that our big data clients need to thrive.
+Hey, I'm Ollie. I'm a full-stack web developer from 🇬🇧 Birmingham, United Kingdom.
 
-I also volunteer for the [Nightline Association](https://www.github.com/nightline-association) on the development of Portal, the software solution that powers student listening services across the country.
+I volunteer for the [Nightline Association](https://www.github.com/nightline-association) on the development of Portal, the software solution that powers student listening services across the country.
 
-I'm currently studying an MBA in Big Data and Business Intelligence at the [University Isabel I of Castile](https://www.ui1.es/). 
-
-Before that, I graduated with first class with a Bachelor's degree in Computer Science with German from [Aberystwyth University](https://www.aber.ac.uk) in 2018, a Master's degree in Software Engineering in 2019, and then a PGCE in Post-Compulsory Education from [Birmingham City University](https://www.bcu.ac.uk) in 2021.
+I graduated with first class with a Bachelor's degree in Computer Science with German from [Aberystwyth University](https://www.aber.ac.uk) in 2018, a Master's degree in Software Engineering in 2019, and then a PGCE in Post-Compulsory Education from [Birmingham City University](https://www.bcu.ac.uk) in 2021.
 
 Side projects: [@petrobolos](https://github.com/petrobolos), [@extracontinue](https://github.com/extracontinue), [@leaguehero](https://www.github.com/leagueheroapp)
 
-Former: [@amadeusitgroup](https://github.com/amadeusitgroup), [@aberuni](https://www.aber.ac.uk)
+Former: [@stickeeuk](https://www.github.com/stickeeuk), [@amadeusitgroup](https://github.com/amadeusitgroup), [@aberuni](https://www.aber.ac.uk)
 
 ## 🧰 What I work with:
 

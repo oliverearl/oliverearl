@@ -2,15 +2,17 @@
 
 <img align="right" alt="A cute PHP elephant that I drew" height="200" src="https://github.com/oliverearl/oliverearl/assets/14837181/ead3f393-4a1b-4357-9b3a-452bad98b760" />
 
-Hey, I'm Ollie. I'm a full-stack web developer from 🇬🇧 Birmingham, United Kingdom.
+Hey, I'm Ollie. I'm a software engineer from 🇬🇧 Birmingham, United Kingdom.
 
-I volunteer for the [Nightline Association](https://www.github.com/nightline-association) on the development of Portal, the software solution that powers student listening services across the country.
+By day, I'm a backend developer at [Overwolf](https://www.overwolf.com/). 
+
+By night, I volunteer as a full-stack developer for the [Nightline Association](https://www.github.com/nightline-association) on the development of Portal.
 
 I graduated with first class with a Bachelor's degree in Computer Science with German from [Aberystwyth University](https://www.aber.ac.uk) in 2018, a Master's degree in Software Engineering in 2019, and then a PGCE in Post-Compulsory Education from [Birmingham City University](https://www.bcu.ac.uk) in 2021.
 
-Side projects: [@petrobolos](https://github.com/petrobolos), [@extracontinue](https://github.com/extracontinue), [@leaguehero](https://www.github.com/leagueheroapp)
+Hustles: [@petrobolos](https://github.com/petrobolos), [@extracontinue](https://github.com/extracontinue), [@leaguehero](https://www.github.com/leagueheroapp)
 
-Former: [@stickeeuk](https://www.github.com/stickeeuk), [@amadeusitgroup](https://github.com/amadeusitgroup), [@aberuni](https://www.aber.ac.uk)
+Previous: [@stickeeuk](https://www.github.com/stickeeuk), [@amadeusitgroup](https://github.com/amadeusitgroup), [@aberuni](https://www.aber.ac.uk)
 
 ## 🧰 What I work with:
 

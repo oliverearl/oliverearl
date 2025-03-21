@@ -4,25 +4,17 @@
 
 Hey, I'm Ollie. I'm a software engineer from 🇬🇧 Birmingham, United Kingdom.
 
-By day, I'm a backend developer at [Overwolf](https://www.overwolf.com/). 
+By day, I'm a payments engineer at [Overwolf](https://www.overwolf.com/). 
 
 By night, I volunteer as a full-stack developer for the [Nightline Association](https://www.github.com/nightline-association) on the development of Portal.
 
 I graduated with first class with a Bachelor's degree in Computer Science with German from [Aberystwyth University](https://www.aber.ac.uk) in 2018, a Master's degree in Software Engineering in 2019, and then a PGCE in Post-Compulsory Education from [Birmingham City University](https://www.bcu.ac.uk) in 2021.
 
-Hustles: [@petrobolos](https://github.com/petrobolos), [@extracontinue](https://github.com/extracontinue), [@leaguehero](https://www.github.com/leagueheroapp)
+Some side projects, in different stages of completion: [@petrobolos](https://github.com/petrobolos), [@extracontinue](https://github.com/extracontinue), [@leaguehero](https://www.github.com/leagueheroapp)
 
 Previous: [@stickeeuk](https://www.github.com/stickeeuk), [@amadeusitgroup](https://github.com/amadeusitgroup), [@aberuni](https://www.aber.ac.uk)
 
-## 🧰 What I work with:
-
-#### In the professional world:
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,wordpress,nodejs,mysql,postgres,javascript,typescript,vue,nuxt,jquery,html,css,sass,tailwind,bootstrap,graphql,bash,flutter,dart,linux,aws,docker,redis,postman,latex,markdown,git,github,githubactions,vite,webpack)](https://skillicons.dev)
-
-#### For fun, in academia, or in teaching:
-[![My Skills](https://skillicons.dev/icons?i=symfony,alpinejs,godot,unity,gamemakerstudio,c,cs,dotnet,java,ruby,rails,py,flask,arduino)](https://skillicons.dev)
-
-## 📖 Latest blog posts:
+## 📖 Latest blog posts (I don't write much):
 
 <!--START_SECTION:feed-->
 * [Don&amp;#8217;t truncate in Laravel Excel imports](https:&#x2F;&#x2F;oliverearl.co.uk&#x2F;2024&#x2F;08&#x2F;dont-truncate-in-laravel-excel-imports&#x2F;)

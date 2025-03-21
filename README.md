@@ -8,7 +8,7 @@ By day, I'm a payments engineer at [Overwolf](https://www.overwolf.com/).
 
 By night, I volunteer as a full-stack developer for the [Nightline Association](https://www.github.com/nightline-association) on the development of Portal.
 
-I graduated with first class with a Bachelor's degree in Computer Science with German from [Aberystwyth University](https://www.aber.ac.uk) in 2018, a Master's degree in Software Engineering in 2019, and then a PGCE in Post-Compulsory Education from [Birmingham City University](https://www.bcu.ac.uk) in 2021.
+I graduated with first class with a Bachelor's degree in Computer Science with German in 2018 and a Master's degree in Software Engineering the following year from [Aberystwyth University](https://www.aber.ac.uk), and then a PGCE in Post-Compulsory Education from [Birmingham City University](https://www.bcu.ac.uk) in 2021.
 
 Some side projects, in different stages of completion: [@petrobolos](https://github.com/petrobolos), [@extracontinue](https://github.com/extracontinue), [@leaguehero](https://www.github.com/leagueheroapp)
 

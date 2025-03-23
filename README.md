@@ -17,11 +17,11 @@ Previous: [@stickeeuk](https://www.github.com/stickeeuk), [@amadeusitgroup](http
 ## 📖 Latest blog posts (I don't write much):
 
 <!--START_SECTION:feed-->
+* [Finding one&amp;#8217;s place within the pack](https:&#x2F;&#x2F;oliverearl.co.uk&#x2F;2025&#x2F;03&#x2F;finding-ones-place-within-the-pack&#x2F;)
 * [Don&amp;#8217;t truncate in Laravel Excel imports](https:&#x2F;&#x2F;oliverearl.co.uk&#x2F;2024&#x2F;08&#x2F;dont-truncate-in-laravel-excel-imports&#x2F;)
 * [Switching back to WordPress](https:&#x2F;&#x2F;oliverearl.co.uk&#x2F;2024&#x2F;08&#x2F;switching-back-to-wordpress&#x2F;)
 * [You should be coding](https:&#x2F;&#x2F;oliverearl.co.uk&#x2F;2023&#x2F;07&#x2F;you-should-be-coding&#x2F;)
 * [The problems with returning void in Laravel controllers](https:&#x2F;&#x2F;oliverearl.co.uk&#x2F;2022&#x2F;08&#x2F;the-problems-with-returning-void-in-laravel-controllers&#x2F;)
-* [Software engineering and returning to my roots](https:&#x2F;&#x2F;oliverearl.co.uk&#x2F;2021&#x2F;05&#x2F;software-engineering-and-returning-to-my-roots&#x2F;)
 <!--END_SECTION:feed-->
 
 ## :octocat: Open source

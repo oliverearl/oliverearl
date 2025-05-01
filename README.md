@@ -1,16 +1,16 @@
-# 👋 Welcome!
+# 👋🏻 Welcome!
 
 <img align="right" alt="A cute PHP elephant that I drew" height="200" src="https://github.com/oliverearl/oliverearl/assets/14837181/ead3f393-4a1b-4357-9b3a-452bad98b760" />
 
-Hey, I'm Ollie. I'm a software engineer from 🇬🇧 Birmingham, United Kingdom. I currently work at [Overwolf](https://www.overwolf.com/).
+Hey, I'm Ollie. I'm a full-stack developer from 🇬🇧 Birmingham, United Kingdom. By day, I work at [Overwolf](https://www.overwolf.com/) as an engineer in digital payments. By night, I help develop [Three Rings](https://github.com/ThreeRingsCIC).
 
-I also volunteer as a full-stack developer for [Three Rings](https://github.com/ThreeRingsCIC) on their flagship rota application.
+I'm currently a part-time MBA Big Data student at [ENEB](https://eneb.com/). I hold a PGCE from [Birmingham City University](https://www.bcu.ac.uk), and an MSc and BSc in Computer Science from [Aberystwyth University](https://www.aber.ac.uk).
 
-Some side projects, in vastly different stages of completion: [@petrobolos](https://github.com/petrobolos), [@extracontinue](https://github.com/extracontinue), [@leaguehero](https://www.github.com/leagueheroapp)
+Previous: [Nightline Association](https://www.nightline.ac.uk), [Stickee Technology](https://www.stickee.co.uk), [Amadeus Germany](https://www.amadeus.de), [Aberystwyth University](https://www.aber.ac.uk)
 
-Previous: [@nightline-association](https://www.github.com/nightline-association), [@stickeeuk](https://www.github.com/stickeeuk), [@amadeusitgroup](https://github.com/amadeusitgroup), [@aberuni](https://www.aber.ac.uk)
+## 📖 Latest blog posts:
 
-## 📖 Latest blog posts (I don't write much):
+_(I don't write much.)_
 
 <!--START_SECTION:feed-->
 * [Boulevards of broken dreams](https:&#x2F;&#x2F;oliverearl.co.uk&#x2F;2025&#x2F;04&#x2F;boulevards-of-broken-dreams&#x2F;)

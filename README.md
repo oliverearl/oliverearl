@@ -6,7 +6,7 @@ Hey, I'm Ollie. I'm a full-stack developer from 🇬🇧 Birmingham, United King
 
 I'm currently a part-time MBA Big Data student at [ENEB](https://eneb.com/). I hold a PGCE from [Birmingham City University](https://www.bcu.ac.uk), and an MSc and BSc in Computer Science from [Aberystwyth University](https://www.aber.ac.uk).
 
-Previous: [Nightline Association](https://www.nightline.ac.uk), [Stickee Technology](https://www.stickee.co.uk), [Amadeus Germany](https://www.amadeus.de), [Aberystwyth University](https://www.aber.ac.uk)
+Previous: [Nightline Association](https://www.nightline.ac.uk), [Stickee Technology](https://www.stickee.co.uk), [Amadeus Germany](https://www.amadeus.com/de), [Aberystwyth University](https://www.aber.ac.uk)
 
 ## 📖 Latest blog posts:
 

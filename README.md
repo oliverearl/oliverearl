@@ -30,6 +30,4 @@ _(I don't write much.)_
 
 ## 📝 Hiring
 
-Hiring or want more info? Visit my [LinkedIn](https://www.linkedin.com) or grab my CV here:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=oliverearl&repo=resume-2023)](https://github.com/oliverearl/resume-2023)
+Hiring or want more info? Visit my [LinkedIn](https://www.linkedin.com)

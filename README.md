@@ -20,14 +20,6 @@ _(I don't write much.)_
 * [Switching back to WordPress](https:&#x2F;&#x2F;oliverearl.co.uk&#x2F;2024&#x2F;08&#x2F;switching-back-to-wordpress&#x2F;)
 <!--END_SECTION:feed-->
 
-## :octocat: Open source
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliverearl&hide=tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" alt="Most used programming languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=oliverearl&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub stat charts" />
-</div>
-
-
 ## 📝 Hiring
 
 Hiring or want more info? Visit my [LinkedIn](https://www.linkedin.com)

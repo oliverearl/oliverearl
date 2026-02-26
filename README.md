@@ -1,16 +1,33 @@
-# 👋🏻 Welcome!
+# 👋 Hey, I’m Ollie
 
 <img align="right" alt="A cute PHP elephant that I drew" height="200" src="https://github.com/oliverearl/oliverearl/assets/14837181/ead3f393-4a1b-4357-9b3a-452bad98b760" />
 
-Hey, I'm Ollie. I'm a full-stack developer from 🇬🇧 Birmingham, United Kingdom. By day, I work at [Overwolf](https://www.overwolf.com/) as an engineer in digital payments. By night, I help develop [Three Rings](https://github.com/ThreeRingsCIC).
+- 🇬🇧 Birmingham, United Kingdom  
+- 💼 Software engineer, former CS teacher
+- 💳 Currently building digital payments at [Tebex, Overwolf](https://www.overwolf.com/)  
+- 🌙 Helping develop [Three Rings](https://github.com/ThreeRingsCIC)
+- 👷🏻‍♂️ Building my app, Denken, as well as multiple projects for [Petrobolos](https://www.petrobolos.com)
 
-I'm currently a part-time MBA Big Data student at [ENEB](https://eneb.com/). I hold a PGCE from [Birmingham City University](https://www.bcu.ac.uk), and an MSc and BSc in Computer Science from [Aberystwyth University](https://www.aber.ac.uk).
+## 🧠 What I’m into
 
-Previous: [Nightline Association](https://www.nightline.ac.uk), [Stickee Technology](https://www.stickee.co.uk), [Amadeus Germany](https://www.amadeus.com/de), [Aberystwyth University](https://www.aber.ac.uk)
+- 🌍 Code for good - community tech & social impact
+- 🚀 Scalable, high-performance backend systems
+- 🧱 Clean architecture & test-driven development
+- 💳 Payments & fintech
+- 📊 Data & analytics
+- 🎮 The odd bit of game dev
 
-## 📖 Latest blog posts:
+## 🎓 Background
 
-_(I don't write much.)_
+- 🎓 MBA (Big Data and Business Intelligence), ENEB
+- 🎓 PGCE, Birmingham City University  
+- 🎓 MSc & BSc Computer Science, Aberystwyth University  
+
+## 🏢 Previously
+
+Nightline Association • Stickee Technology • Amadeus Germany • Aberystwyth University  
+
+## ✍🏻 Writing
 
 <!--START_SECTION:feed-->
 * [Introducing Denken, a reason to love the Internet again](https:&#x2F;&#x2F;oliverearl.co.uk&#x2F;2025&#x2F;12&#x2F;introducing-denken-a-reason-to-love-the-internet-again&#x2F;)
@@ -20,6 +37,11 @@ _(I don't write much.)_
 * [Switching back to WordPress](https:&#x2F;&#x2F;oliverearl.co.uk&#x2F;2024&#x2F;08&#x2F;switching-back-to-wordpress&#x2F;)
 <!--END_SECTION:feed-->
 
-## 📝 Hiring
+---
 
-Hiring or want more info? Visit my [LinkedIn](https://www.linkedin.com)
+## 🤝 Let’s connect
+
+Hiring? Curious? Want to talk shop?
+
+👉 [LinkedIn](https://www.linkedin.com)  
+👉 [https://oliverearl.co.uk](https://oliverearl.co.uk)

@@ -4,7 +4,6 @@
 
 - 🇬🇧 Birmingham, United Kingdom  
 - 💼 Software engineer, former CS teacher
-- 💳 Currently building digital payments at [Tebex, Overwolf](https://www.overwolf.com/)  
 - 🌙 Helping develop [Three Rings](https://github.com/ThreeRingsCIC)
 - 👷🏻‍♂️ Building my app, Denken, as well as multiple projects for [Petrobolos](https://www.petrobolos.com)
 
@@ -19,13 +18,12 @@
 
 ## 🎓 Background
 
-- 🎓 MBA (Big Data and Business Intelligence), ENEB
 - 🎓 PGCE, Birmingham City University  
 - 🎓 MSc & BSc Computer Science, Aberystwyth University  
 
 ## 🏢 Previously
 
-Nightline Association • Stickee Technology • Amadeus Germany • Aberystwyth University  
+Overwolf • Nightline Association • Stickee Technology • Amadeus Germany • Aberystwyth University  
 
 ## ✍🏻 Writing
 

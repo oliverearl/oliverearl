@@ -5,7 +5,8 @@
 - 🇬🇧 Birmingham, United Kingdom  
 - 💼 Software engineer, former CS teacher
 - 🌙 Helping develop [Three Rings](https://github.com/ThreeRingsCIC)
-- 👷🏻‍♂️ Building my app, Denken, as well as multiple projects for [Petrobolos](https://www.petrobolos.com)
+- 👷🏻‍♂️ Building my app, Denken, 
+- 🕹️ As well as multiple projects for [Petrobolos](https://www.petrobolos.com)
 
 ## 🧠 What I’m into
 

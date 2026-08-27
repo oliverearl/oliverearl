@@ -29,11 +29,11 @@ Overwolf • Nightline Association • Stickee Technology • Amadeus Germany �
 ## ✍🏻 Writing
 
 <!--START_SECTION:feed-->
+* [How do people blog for thirty years without running out of things to say?](https:&#x2F;&#x2F;oliverearl.co.uk&#x2F;2026&#x2F;08&#x2F;how-do-people-blog-for-thirty-years-without-running-out-of-things-to-say&#x2F;)
 * [Introducing Denken, a reason to love the Internet again](https:&#x2F;&#x2F;oliverearl.co.uk&#x2F;2025&#x2F;12&#x2F;introducing-denken-a-reason-to-love-the-internet-again&#x2F;)
 * [Boulevards of broken dreams](https:&#x2F;&#x2F;oliverearl.co.uk&#x2F;2025&#x2F;04&#x2F;boulevards-of-broken-dreams&#x2F;)
 * [Finding one&amp;#8217;s place within the pack](https:&#x2F;&#x2F;oliverearl.co.uk&#x2F;2025&#x2F;03&#x2F;finding-ones-place-within-the-pack&#x2F;)
 * [Don&amp;#8217;t truncate in Laravel Excel imports](https:&#x2F;&#x2F;oliverearl.co.uk&#x2F;2024&#x2F;08&#x2F;dont-truncate-in-laravel-excel-imports&#x2F;)
-* [Switching back to WordPress](https:&#x2F;&#x2F;oliverearl.co.uk&#x2F;2024&#x2F;08&#x2F;switching-back-to-wordpress&#x2F;)
 <!--END_SECTION:feed-->
 
 ---

@@ -20,9 +20,9 @@ You can also find me on **[LinkedIn](https://www.linkedin.com/in/oliverearl/)**.
 ## Recent Blogposts
 
 <!--START_SECTION:feed-->
+* [The beginning of this year&amp;#8217;s winter arc](https:&#x2F;&#x2F;oliverearl.co.uk&#x2F;2026&#x2F;09&#x2F;the-beginning-of-this-years-winter-arc&#x2F;)
 * [GitHub can stack pull requests](https:&#x2F;&#x2F;oliverearl.co.uk&#x2F;2026&#x2F;08&#x2F;github-can-stack-pull-requests&#x2F;)
 * [How do people blog for thirty years without running out of things to say?](https:&#x2F;&#x2F;oliverearl.co.uk&#x2F;2026&#x2F;08&#x2F;how-do-people-blog-for-thirty-years-without-running-out-of-things-to-say&#x2F;)
 * [Introducing Denken, a reason to love the Internet again](https:&#x2F;&#x2F;oliverearl.co.uk&#x2F;2025&#x2F;12&#x2F;introducing-denken-a-reason-to-love-the-internet-again&#x2F;)
 * [Boulevards of broken dreams](https:&#x2F;&#x2F;oliverearl.co.uk&#x2F;2025&#x2F;04&#x2F;boulevards-of-broken-dreams&#x2F;)
-* [Finding one&amp;#8217;s place within the pack](https:&#x2F;&#x2F;oliverearl.co.uk&#x2F;2025&#x2F;03&#x2F;finding-ones-place-within-the-pack&#x2F;)
 <!--END_SECTION:feed-->
